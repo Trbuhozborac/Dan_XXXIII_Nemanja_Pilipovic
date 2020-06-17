@@ -6,6 +6,7 @@ namespace Zadatak_1
     {
         static void Main(string[] args)
         {
+            //Starts the application by calling Starting method
             ThreadApp.Start();
             Console.ReadLine();
         }

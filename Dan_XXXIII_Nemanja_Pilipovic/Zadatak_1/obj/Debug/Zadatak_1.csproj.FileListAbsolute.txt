@@ -5,3 +5,10 @@ C:\Users\panonit\source\repos\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Z
 C:\Users\panonit\source\repos\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.csproj.CoreCompileInputs.cache
 C:\Users\panonit\source\repos\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.exe
 C:\Users\panonit\source\repos\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.pdb
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\bin\Debug\Zadatak_1.exe.config
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\bin\Debug\Zadatak_1.exe
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\bin\Debug\Zadatak_1.pdb
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.csprojAssemblyReference.cache
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.csproj.CoreCompileInputs.cache
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.exe
+C:\Users\panonit\Desktop\Dan33\Dan_XXXIII_Nemanja_Pilipovic\Zadatak_1\obj\Debug\Zadatak_1.pdb

@@ -10,12 +10,19 @@ namespace Zadatak_1
     {
         #region Functions
 
+        /// <summary>
+        /// Get the names for the threads and call method for creating threads
+        /// </summary>
         public static void Start()
         {
             List<string> threads = CreateThreadNames();
             CreateThreads(threads);
         }
 
+        /// <summary>
+        /// Gets the names for the threads
+        /// </summary>
+        /// <returns>List of names for threads</returns>
         private static List<string> CreateThreadNames()
         {
             List<string> names = new List<string>();
@@ -35,6 +42,10 @@ namespace Zadatak_1
             return names;
         }
 
+        /// <summary>
+        /// Create threads and call methods for each of the threads
+        /// </summary>
+        /// <param name="threads">List of names for threads</param>
         private static void CreateThreads(List<string> threads)
         {
             Stopwatch s = new Stopwatch();
@@ -70,6 +81,9 @@ namespace Zadatak_1
 
         }
 
+        /// <summary>
+        /// Method that writes matrix  to the txt file
+        /// </summary>
         private static void FirstThread()
         {
             string location = @"~/../../../FileByThread_1.txt";
@@ -98,6 +112,9 @@ namespace Zadatak_1
             }
         }
 
+        /// <summary>
+        /// Method that writes just odd numbers to txt file
+        /// </summary>
         private static void SecondThread()
         {
             string location = @"~/../../../FileByThread_22.txt";
@@ -117,6 +134,9 @@ namespace Zadatak_1
             sw.Close();
         }
 
+        /// <summary>
+        /// Reads the matrix from txt file and writes it to the console
+        /// </summary>
         private static void ThirdThread()
         {
             string location = @"~/../../../FileByThread_1.txt";
@@ -133,6 +153,9 @@ namespace Zadatak_1
             }
         }
 
+        /// <summary>
+        /// Get the sum of all numbers from txt file
+        /// </summary>
         private static void FourthThread()
         {
             string location = @"~/../../../FileByThread_22.txt";
@@ -153,6 +176,10 @@ namespace Zadatak_1
             }
         }
 
+        /// <summary>
+        /// Gets the 1000 random odd numbers from 1 to 10000
+        /// </summary>
+        /// <returns></returns>
         private static int[] GetNumbers()
         {
             int[] numbers = new int[1000];
